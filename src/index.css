@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  color: black;
+  font-family: "ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", "Noto Symbol
+}
+
+@font-face {
+  font-family: satoshi;
+  src: url(/font/satoshi-variable-CFg-z2ne.ttf);
+}
